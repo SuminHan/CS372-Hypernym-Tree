@@ -1,0 +1,16 @@
+NUMBER_TO_LOOK:300
+adventure	75.8620689655
+belles_lettres	54.6666666667
+editorial	81.4814814815
+fiction	65.5172413793
+government	73.3333333333
+hobbies	61.1111111111
+humor	88.8888888889
+learned	65.0
+lore	43.75
+mystery	91.6666666667
+news	77.2727272727
+religion	100.0
+reviews	82.3529411765
+romance	68.9655172414
+science_fiction	100.0
