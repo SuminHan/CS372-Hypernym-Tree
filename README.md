@@ -16,7 +16,7 @@ We also used [Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) to draw hyp
 
 ![alt tag](intro2.png)
 
-### This is the characteristic of Brown corpus categories and their hypernym tree.
+This is the characteristic of Brown corpus categories and their hypernym tree.
 
 category | #files | leaves | maxpaths | V | E
 -------- | ------ | ------ | -------- | - | -
