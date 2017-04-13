@@ -37,13 +37,13 @@ romance | 29 | 586.448276 | 15.551724 | 1215.62069 | 1115.137931
 science_fiction | 6 | 631.333333 | 15 | 1235 | 1110.666667
 
 ## Source Code
-1. hypernetwork.py: Shows option to make network files for specific category. Just pressing enter will create for all the categories.
-2. hyperallstatistics.py: After creating all the networks for hypernetwork (1), category_statistics.txt file for overall result and category_’ctg’_popular.txt file for list of popular hypernyms will be created. category_’ctg’_popular.txt file is necessary to calculate hyperclosest because we use this file for the standard.
-3. hyperclosest.py: Calculating correction for each category. The correction graph in this report was based on this data. dist_result.txt represents the best category for each file in the Brown Corpus, and dist_correct.txt containing accuracy data.
-4. news_chosun.py: extracts word list from english chosun news article.
-5. news_reuters.py: extracts word list from reuters news article.
-6. hyperclosestchosun.py: calculates the closest category for chosun news article.
-7. hyperclosestreuters.py : calculates the closest category for reuters article.
+1. **hypernetwork.py**: Shows option to make network files for specific category. Just pressing enter will create for all the categories.
+2. **hyperallstatistics.py**: After creating all the networks for hypernetwork (1), category_statistics.txt file for overall result and category_’ctg’_popular.txt file for list of popular hypernyms will be created. category_’ctg’_popular.txt file is necessary to calculate hyperclosest because we use this file for the standard.
+3. **hyperclosest.py**: Calculating correction for each category. The correction graph in this report was based on this data. dist_result.txt represents the best category for each file in the Brown Corpus, and dist_correct.txt containing accuracy data.
+4. **news_chosun.py**: extracts word list from english chosun news article.
+5. **news_reuters.py**: extracts word list from reuters news article.
+6. **hyperclosestchosun.py**: calculates the closest category for chosun news article.
+7. **hyperclosestreuters.py**: calculates the closest category for reuters article.
 
 ## Documents
 
